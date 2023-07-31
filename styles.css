@@ -1,0 +1,88 @@
+
+
+
+div
+{
+    text-align: center;
+}
+
+h1{
+    background-color:white;
+}
+
+#a{
+    background-color: cornsilk;
+}
+
+#b{
+     background-color:white;
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, nav, main, footer {
+    margin: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+  }
+  
+ section{
+     margin-bottom: 20px;
+  }
+
+  
+
+  
+  form label {
+    display:block;
+    margin-bottom: 5px;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  form input[type="submit"] {
+    background-color:rgb(105, 62, 225);
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+  }
+
+
+  h2{
+    font-family:serif  ;
+  }
+  
+  p{
+    font-family:cursive;
+  }
+
+  h1{
+     font-family:serif ;
+  }
